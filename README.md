@@ -1,0 +1,1 @@
+Bilgisayar Mühendisliği 1.Sınıf öğrencisi olarak ilk öğrenim yılımda görmüş olduğum Python ve C dillerini beraber kullanarak bir Su içme hatırlatıcı programı tasarladım. Dileyen herkes exe dosyasını indirerek programa erişim sağlayabilir.
